@@ -1,0 +1,2 @@
+count=len("its too easy to do".split())
+print(count)
