@@ -1,0 +1,7 @@
+#yester day date today and tommorow date
+today=int(input("enter present()"))
+yesterday=today-1
+tomorrow=today+1
+print("today is",today)
+print("yesterday is",yesterday)
+print("tomorrow is",tomorrow)
